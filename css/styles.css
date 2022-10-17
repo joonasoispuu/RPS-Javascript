@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    overflow: auto;
+    font-family: 'Century Gothic';
+}
+
+.welcome{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Round{
+    margin-top: 125px;
+    margin-left: 600px;
+    font-size: 40px;
+    position: relative;
+}
+
+.RPS{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.RPS h1{
+    margin-top: 50px;
+    display: inline-block;
+    text-align: justify;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-bottom: 50px;
+}
+
+.RPS input{
+    display: inline-block;
+    margin-left: 25px;
+}
+
+#Paper{
+    margin-left: 90px;
+}
+
+#Scissors{
+    margin-left: 140px;
+}
